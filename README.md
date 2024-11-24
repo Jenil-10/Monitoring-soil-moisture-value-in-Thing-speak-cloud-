@@ -1,6 +1,7 @@
-## NAME: JENIL PIO J
-## REG. NO. : 212223220040
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+ NAME: JENIL PIO J
+ 
+REG. NO. : 212223220040
+
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
